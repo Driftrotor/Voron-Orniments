@@ -1,2 +1,7 @@
 # Voron Orniments
-a collection of verious Voron based orniments
+
+A Small collection of Voron Inspired Orniments
+
+
+
+
